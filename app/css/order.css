@@ -1,0 +1,173 @@
+.bg{
+    width: 7.5rem;
+    margin: 0 auto;
+    background: #aaaaaa;
+}
+.header{
+    width: 7.5rem;
+    height: 0.6rem;
+    margin: auto;
+}
+.header p{
+    font-size: 0.32rem;
+    font-weight: bold;
+    text-align: center;
+    line-height: 0.6rem;
+}
+.or1,.or8{
+    width: 7.5rem;
+    height: 0.51rem;
+    margin: 0.4rem auto;
+}
+.or2,.or9{
+    width: 1.75rem;
+    height: 0.51rem;
+    background: #ff8514;
+    border-radius: 0 0.5rem 0.5rem 0;
+    box-shadow: 0 0.08rem 0.28rem 0 rgba(141, 136, 136, 0.5);
+}
+.or2 p,.or9 p{
+    font-size: 0.3rem;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    line-height: 0.5rem;
+}
+.or3{
+    width: 7.5rem;
+    height: 1.84rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+}
+.or4{
+    width: 3.35rem;
+    height: 1.84rem;
+    background: white;
+    border-radius: 0.1rem;
+    box-shadow: 0 0.08rem 0.28rem 0 rgba(156, 156, 154, 0.36);
+    position: relative;
+}
+.or4 img{
+    width: 1.45rem;
+    height: 1.45rem;
+    position: absolute;
+    top: 0.19rem;
+    left: 0.26rem;
+    border-radius: 0.12rem;
+}
+.or4 .or6{
+    font-size: 0.24rem;
+    font-weight: bold;
+    position: absolute;
+    top: 0.68rem;
+    right: 0.1rem;
+    color: #5a5a5a;
+}
+.or4 .or7{
+    font-size: 0.22rem;
+    position: absolute;
+    top: 1.11rem;
+    right: 0.1rem;
+    color: #a2a2a1;
+}
+.or10{
+    width: 7rem;
+    height: 7rem;
+    margin: 0.27rem auto;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+.or11{
+    width: 7rem;
+    height: 2.2rem;
+    background: white;
+    box-shadow: 0 0.08rem 0.28rem 0 rgba(156, 156, 154, 0.36);
+    border-radius: 0.28rem;
+    position: relative;
+}
+.or11 .or12{
+    width: 1.62rem;
+    height: 1.57rem;
+    box-shadow: 0 0.08rem 0.28rem 0 rgba(156, 156, 154, 0.36);
+    border-radius: 50%;
+    position: absolute;
+    left: 0.2rem;
+    top: 0.3rem;
+}
+.or13{
+    width: 2.75rem;
+    height: 1.6rem;
+    position: relative;
+    top: 0.3rem;
+    left: 2.1rem;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-content: space-around;
+}
+.or13 .or14{
+    font-size: 0.24rem;
+    font-weight: bold;
+    color:#5a5a5a;
+}
+.or13 .or15{
+    font-size: 0.18rem;
+    font-weight: bold;
+    color: #5a5a5a;
+}
+.or13 .or16{
+    width: 2.68rem;
+    height: 0.08rem;
+}
+.oe13 .or17{
+    font-size: 0.18rem;
+    font-weight: bold;
+    color: #5a5a5a;
+}
+.or18{
+    width: 1.5rem;
+    height: 0.53rem;
+    background: #ff8514;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.08rem 0.28rem 0 rgba(225,159,64,0.36);
+    position: relative;
+    top: -0.2rem;
+    left: 5.3rem;
+}
+.or18 p{
+    font-size: 0.24rem;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    line-height: 0.53rem;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 0.89rem;
+    background: white;
+    margin: 0.5rem auto 0;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 -0.15rem 1rem 0 rgba(181, 174, 174, 0.57);
+
+}
+.logo1,.logo3,.logo2,.logo4{
+    width: 0.7rem;
+    height: 0.89rem;
+}
+.logo1 img,.logo3 img,.logo2 img,.logo4 img{
+    display: block;
+    width: 0.56rem;
+    height: 0.56rem;
+    margin: 0 auto;
+}
+.footer p{
+    font-size: 0.18rem;
+    text-align: center;
+}

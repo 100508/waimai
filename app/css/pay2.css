@@ -1,0 +1,216 @@
+.p1{
+    width: 7.5rem;
+    height: 100%;
+    background: white;
+    margin: 0 auto;
+}
+.p2{
+    width: 7.5rem;
+    height: 1.83rem;
+    background: #ff8514;
+    position: relative;
+}
+.p3{
+    float: left;
+    font-size: 0.24rem;
+    font-family: iconfont;
+    color: white;
+    margin-top: 0.71rem;
+    margin-left: 0.24rem;
+}
+.p4{
+    float: left;
+    font-size: 0.34rem;
+    font-weight: bold;
+    margin-top: 1.14rem;
+    margin-left: -0.14rem;
+    color: white;
+}
+.p5{
+    width: 0.35rem;
+    height: 0.13rem;
+    margin-top: 0.3rem;
+    margin-left: 0.24rem;
+}
+.p5 img{
+    width: 0.34rem;
+    height: 0.13rem;
+}
+.p6{
+    font-size: 0.34rem;
+    font-weight: bold;
+    color: #888383;
+    margin-top: -0.2rem;
+    margin-left: 0.77rem;
+}
+.p7{
+    font-size: 0.34rem;
+    font-weight: bold;
+    color: #ff8514;
+    margin-top: -0.4rem;
+    margin-left: 5.31rem;
+}
+.p8{
+    width: 7.02rem;
+    height: 1.78rem;
+    margin: 0.3rem auto 0.42rem;
+}
+.p9{
+    width: 3.42rem;
+    height: 100%;
+    background: white;
+    box-shadow: 0 -0.15rem 1rem 0 rgba(181, 174, 174, 0.57);
+    float: left;
+}
+.p9 .p10,.p14 .p10{
+    width: 3.42rem;
+    height: 0.11rem;
+    float: left;
+    margin-top: -0.05rem;
+}
+.p9 .p11,.p14 .p11{
+    width: 0.96rem;
+    height: 0.96rem;
+    float: left;
+    margin-top: 0.34rem;
+    margin-left: 0.42rem;
+}
+.p9 .p12,.p14 .p12{
+    display: block;
+    font-size: 0.24rem;
+    font-weight: bold;
+    color: #888383;
+    float: left;
+    margin-top: 0.5rem;
+    margin-left: 0.1rem;
+}
+.p9 .p13{
+    display: block;
+    font-size: 0.18rem;
+    font-weight: bold;
+    color: #888383;
+    float: left;
+    margin-top: 0.05rem;
+    margin-left: 0.1rem;
+}
+.p14{
+    width: 3.42rem;
+    height: 100%;
+    background: white;
+    box-shadow: 0 -0.15rem 1rem 0 rgba(181, 174, 174, 0.57);
+    float: right;
+}
+.p14 .p13{
+     display: block;
+     font-size: 0.18rem;
+     font-weight: bold;
+     color: #888383;
+     float: left;
+     margin-top: 0.85rem;
+     margin-left: -0.5rem;
+ }
+.p15{
+    width: 7.5rem;
+    height: 0.32rem;
+    box-shadow: 0 -0.15rem 1rem 0 rgba(181, 174, 174, 0.57);
+    float: left;
+    background: white;
+    margin-left: -0.24rem;
+    margin-top: -0.15rem;
+}
+.p16{
+    width: 4.88rem;
+    height: 0.53rem;
+    margin: 0.26rem auto 0.75rem;
+}
+.p16 img{
+    width: 4.88rem;
+    height: 0.06rem;
+    float: left;
+    margin-top: 0.1rem;
+}
+.p16 .p17{
+    font-size: 0.24rem;
+    color: #888383;
+    float: left;
+    margin-top: -0.15rem;
+    margin-left: 1.76rem;
+}
+.p16 .p18{
+    font-size: 0.24rem;
+    color: #888383;
+    float: left;
+    margin-top: -0.15rem;
+    margin-left: 0.3rem;
+}
+.p16 .p19{
+    font-size: 0.24rem;
+    font-weight: bold;
+    color: #888383;
+    float: left;
+    margin-top: 0.2rem;
+    margin-left: -1.3rem;
+}
+.p20{
+    width: 7.02rem;
+    height: 3.44rem;
+    margin: 0.75rem auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+}
+.p21{
+    width: 3.44rem;
+    height: 3.44rem;
+    background: white;
+    box-shadow: 0 -0.15rem 1rem 0 rgba(181, 174, 174, 0.57);
+}
+.p22{
+    width: 0.96rem;
+    height: 0.96rem;
+    border-radius: 50%;
+    background: #ff8514;
+    box-shadow: 0 0.03rem 0.2rem 0 rgba(230,158,79,0.36);
+    float: left;
+    margin-top: 0.64rem;
+    margin-left: 1.18rem;
+}
+.p22 .p23{
+    width: 0.65rem;
+    height: 0.44rem;
+    margin-top: 0.25rem;
+    margin-left: 0.15rem;
+}
+.p24{
+    font-size: 0.24rem;
+    font-weight: bold;
+    color: #888383;
+    float: left;
+    margin-top: 1.88rem;
+    margin-left: -1rem;
+}
+.p25{
+    font-size: 0.24rem;
+    font-weight: bold;
+    color: #888383;
+    float: left;
+    margin-top: 0.1rem;
+    margin-left: 0.8rem;
+}
+.p26{
+    width: 0.81rem;
+    height: 0.46rem;
+    border-radius: 0.23rem;
+    background: green;
+    box-shadow: 0 0.03rem 0.2rem 0 rgba(74,244,15,0.36);
+    float: left;
+    margin-top: 0.22rem;
+    margin-left: 1.25rem;
+}
+.p26 p{
+    font-size: 0.24rem;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    line-height: 0.46rem;
+}

@@ -1,0 +1,185 @@
+.mi1{
+    width: 7.5rem;
+    height: 5.81rem;
+    margin: 0 auto;
+    position: relative;
+}
+.mi1 .mi2{
+    width: 7.5rem;
+    height: 5.81rem;
+}
+.mi1 .mi3{
+    width: 1.8rem;
+    height: 1.8rem;
+    position: absolute;
+    top: 1.1rem;
+    left: 2.91rem;
+    border-radius: 50%;
+}
+.mi4{
+    width: 4.15rem;
+    height: 0.88rem;
+    position: absolute;
+    left: 1.65rem;
+    top: 3rem;
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+.mi4 .mi5{
+    font-size: 0.3rem;
+    font-weight: bold;
+    color: white;
+}
+.mi4 .mi6{
+    font-size: 0.18rem;
+    color: white;
+}
+.mi7{
+    font-size: 0.18rem;
+    color: white;
+    position: absolute;
+    left: 0.9rem;
+    top: 1rem;
+}
+.mi8 img{
+    width: 1.95rem;
+    height: 0.25rem;
+    position: absolute;
+    left: 1.1rem;
+    top: 1.4rem;
+}
+.mi9{
+    width: 1.6rem;
+    height: 0.52rem;
+    position: absolute;
+    left: 1.3rem;
+    top: 1.8rem;
+    display: flex;
+    justify-content: space-between;
+}
+.mi9 img{
+    width: 0.52rem;
+    height: 0.52rem;
+}
+.mi10{
+    width: 2.33rem;
+    height: 0.63rem;
+    background: white;
+    border-radius: 0.32rem;
+    border: 0.06rem solid #ff8514;
+    position: absolute;
+    left: 1.1rem;
+    top: 2.5rem;
+}
+.mi10 p{
+    font-size: 0.3rem;
+    font-weight: bold;
+    color: #ff8514;
+    text-align: center;
+    line-height: 0.56rem;
+}
+.mi11{
+    width: 7.02rem;
+    height: 5.85rem;
+    margin: 0.56rem auto 1rem;
+    display: flex;
+    align-content: space-between;
+    flex-wrap: wrap;
+}
+.mi12{
+    width: 7.02rem;
+    height: 1.32rem;
+    border-radius: 0.12rem;
+    background: white;
+    box-shadow: 0 -0.15rem 1rem 0 rgba(181, 174, 174, 0.57);
+}
+.bot{
+
+}
+.mi12 .mi13{
+    width: 0.68rem;
+    height: 0.68rem;
+    border-radius: 50%;
+    background: red;
+    position: relative;
+    left: 0.54rem;
+    top: 0.33rem;
+    box-shadow: 0 -0.15rem 1rem 0 rgba(181, 174, 174, 0.57);
+}
+.mi12 .mi14{
+    font-family: iconfont;
+    font-size: 0.4rem;
+    line-height: 0.68rem;
+    position: relative;
+    left: 0.15rem;
+    color: white;
+}
+.mi12 .mi15{
+    font-size: 0.3rem;
+    font-weight: bold;
+    color: #7b7b7a;
+    margin-top: -0.2rem;
+    margin-left: 1.5rem;
+}
+.mi16{
+    width: 0.99rem;
+    height: 0.55rem;
+    background: red;
+    border-radius: 0.28rem;
+    float: left;
+    margin-left: 5.9rem;
+    margin-top: -0.4rem;
+    box-shadow: 0 -0.15rem 1rem 0 rgba(181, 174, 174, 0.57);
+}
+.mi16 p{
+    font-size: 0.3rem;
+    color: white;
+    text-align: center;
+    line-height: 0.55rem;
+}
+.mi17{
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background: white;
+    position: relative;
+    left: 0.05rem;
+    top: 0.03rem;
+}
+.mi18{
+    font-family: iconfont;
+    margin-left: 0.35rem;
+    color: white;
+    font-size: 0.3rem;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 0.89rem;
+    background: white;
+    margin: 0.5rem auto 0;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 -0.15rem 1rem 0 rgba(181, 174, 174, 0.57);
+
+}
+.logo1,.logo3,.logo2,.logo4{
+    width: 0.7rem;
+    height: 0.89rem;
+}
+.logo1 img,.logo3 img,.logo2 img,.logo4 img{
+    display: block;
+    width: 0.56rem;
+    height: 0.56rem;
+    margin: 0 auto;
+}
+.footer p{
+    font-size: 0.18rem;
+    text-align: center;
+}
+
+
+

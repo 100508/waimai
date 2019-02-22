@@ -1,0 +1,401 @@
+.container{
+    width: 7.02rem;
+    height: auto;
+    min-height: 1px;
+    margin: 0 auto;
+}
+#header{
+    width: 7.5rem;
+    height: 0.91rem;
+    background: #ff6700;
+    margin: 0 auto;
+}
+.topBar{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.topBar:before{
+    content: "";
+    display: block;
+    width: 0.42rem;
+}
+.searchBox{
+    width: 5rem;
+    height: 0.42rem;
+    background: white;
+    border-radius: 0.21rem;
+}
+
+.scanBox{
+    width: 0.42rem;
+    height: 0.42rem;
+    background: white;
+    border-radius: 50%;
+}
+.search{
+    width: 0.29rem;
+    height: 0.29rem;
+    margin-top: 0.1rem;
+    margin-left: 0.2rem;
+    float: left;
+    font-family: 'iconfont';
+    color: rgba(0,0,0,0.6);
+}
+.input{
+    width: 3.8rem;
+    height: 0.25rem;
+    float: left;
+    border: none;
+    margin-top: 0.12rem;
+}
+.camera{
+    float: left;
+    width: 0.33rem;
+    height: 0.25rem;
+    text-align: center;
+    margin-top: 0.07rem;
+    margin-left: 0.14rem;
+    font-family: 'iconfont';
+    color: rgba(0,0,0,0.6);
+}
+.saomiao{
+    float: left;
+    width: 0.33rem;
+    height: 0.25rem;
+    text-align: center;
+    margin-top: 0.1rem;
+    margin-left: 0.05rem;
+    font-family: 'iconfont';
+    color: rgba(0,0,0,0.6);
+}
+.banner{
+    width: 7.5rem;
+    height: 4.24rem;
+    box-shadow: 0 15px 16px 0 rgba(52,49,16,0.5);
+    margin: 0.29rem auto 0;
+    position: relative;
+    border-radius: 0.4rem;
+}
+.imageBox{
+    width: 7.03rem;
+    height: 3.97rem;
+    margin: 0 auto;
+    position: relative;
+
+}
+.imageBox li{
+    width: 7.03rem;
+    height: 3.97rem;
+    position: absolute;
+    left: 0;
+    top:0;
+}
+
+.imageBox li img{
+    display: block;
+    width: 7.03rem;
+    height: 3.97rem;
+}
+.imageBox li.active{
+    z-index: 1;
+}
+.pagerBox{
+    width: 1.1rem;
+    height: 0.13rem;
+    position: absolute;
+    top: 0.26rem;
+    right: 0.63rem;
+    z-index: 9;
+    display: flex;
+    justify-content: space-between;
+
+}
+.pagerBox li{
+    width: 0.13rem;
+    height: 0.13rem;
+    border-radius: 50%;
+    background: white;
+}
+.pagerBox li.active{
+    background: #C3E40B;
+}
+.category{
+    width: 6.37rem;
+    height: 3.96rem;
+    margin: 0.99rem auto 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.categoryBox{
+    display: block;
+    width: 1.47rem;
+    height: 1.98rem;
+}
+.categoryBox img{
+    width: 1.47rem;
+    height: 1.47rem;
+}
+.categoryBox p{
+    width: 1.47rem;
+    height: 0.24rem;
+    line-height: 0.24rem;
+    text-align: center;
+    font-size: 0.24rem;
+    margin-top: 0.11rem;
+    color: rgba(0,0,0,0.8);
+}
+.homePage{
+    width: 7.5rem;
+    height: 9.1rem;
+    margin: 0.29rem auto 0;
+    position: relative;
+}
+.content img{
+    width: 2.37rem;
+    height: 0.78rem;
+    margin: 0 auto;
+}
+.homePage .content1{
+    font-size:0.28rem;
+    position: absolute;
+    left:3.2rem;
+    top: 0.1rem;
+}
+.homePage .content2{
+    font-size:0.18rem;
+    position: absolute;
+    color: #5a5555;
+    left:2.9rem;
+    top: 0.8rem;
+}
+.detail{
+    width: 7.02rem;
+    height: 3.76rem;
+    background: white;
+    margin:0.5rem auto 0;
+}
+.detail img{
+    width: 100%;
+    height: 2.72rem;
+    border-radius: 0.4rem;
+}
+.detail2{
+    width: 100%;
+    height: 1.04rem;
+    position: relative;
+}
+.name{
+    font-size: 0.26rem;
+    font-weight: bold;
+    color: #231919;
+}
+.name2{
+    font-size:0.2rem ;
+    color: #5a5555;
+}
+.detail2 .tu1{
+    width: 0.26rem;
+    height: 0.27rem;
+    position: absolute;
+    top:0.75rem;
+    left: 0rem;
+}
+.detail2 .name3{
+    display: block;
+    position: absolute;
+    top:0.7rem;
+    left: 0.4rem;
+}
+.detail2 .tu2{
+    width: 0.26rem;
+    height: 0.27rem;
+    position: absolute;
+    top:0.75rem;
+    left: 2rem;
+}
+.detail2 .name4{
+    display: block;
+    position: absolute;
+    top:0.7rem;
+    left: 2.4rem;
+}
+.detail2 .jindian{
+    width: 1.13rem;
+    height: 0.3rem;
+    background: #ff8514;
+    position: absolute;
+    right: 0;
+    top:0.7rem;
+    border-radius: 0.5rem;
+}
+.detail2 .name5{
+    font-size: 0.22rem;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+.recommend{
+    width: 7.5rem;
+    height: 9.4rem;
+    margin: 0.5rem auto 0;
+    position: relative;
+}
+.recommend img{
+    width: 2.37rem;
+    height: 0.78rem;
+    margin: 0 auto;
+}
+.recommend .content1{
+    font-size:0.24rem;
+    position: absolute;
+    left:3.2rem;
+    top: 0.1rem;
+}
+.recommend .content2{
+    font-size:0.18rem;
+    color:#5a5555;
+    position: absolute;
+    text-align: center;
+    left:2.9rem;
+    top: 0.8rem;
+}
+.main{
+    width: 7.02rem;
+    height: 7.94rem;
+    margin:0.5rem auto 1.5rem;
+}
+
+.tuijian1{
+    width: 6.65rem;
+    height: 2.39rem;
+    border-radius: 0.4rem;
+    background: white;
+    box-shadow: 0 15px 16px 0 rgba(181, 174, 174, 0.57);
+    position: relative;
+    margin-bottom: 0.4rem;
+}
+.tuijian1 img{
+    width: 1.79rem;
+    height: 1.79rem;
+    position: absolute;
+    top: 0.36rem;
+    left: 0.27rem;
+    border-radius: 0.4rem;
+}
+.tuijian .biaoti{
+    font-size: 0.28rem;
+    font-weight: bold;
+    color: #010101;
+    position: absolute;
+    left:2.1rem ;
+    top: 0.32rem;
+}
+.tuijian .xianliang{
+    width: 2.5rem;
+    height: 0.38rem;
+    position: absolute;
+    left: 2.1rem;
+    top: 1.1rem;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+.xianliang .xian {
+    width: 0.9rem;
+    height: 100%;
+    background: hotpink;
+    font-size: 0.24rem;
+    color: white;
+    text-align: center;
+    border-radius: 0.08rem;
+}
+.xianliang .qi{
+    width: 0.9rem;
+    height: 100%;
+    background: green;
+    font-size: 0.24rem;
+    color: white;
+    text-align: center;
+    border-radius: 0.08rem;
+}
+.xianliang .te{
+    width: 0.6rem;
+    height: 100%;
+    background: #ff8514;
+    font-size: 0.24rem;
+    color: white;
+    text-align: center;
+    border-radius: 0.08rem;
+}
+.redu .img1{
+    width: 0.3rem;
+    height: 0.28rem;
+    position: absolute;
+    top: 1.9rem;
+    left: 2.1rem;
+}
+.redu .zhi1{
+    position: absolute;
+    left: 2.4rem;
+    top: 1.9rem;
+}
+.redu .img2{
+    width: 0.3rem;
+    height: 0.28rem;
+    position: absolute;
+    top: 1.9rem;
+    left:3.6rem;
+}
+.redu .zhi2{
+    position: absolute;
+    left: 3.92rem;
+    top: 1.9rem;
+}
+.qiang{
+    width: 1rem;
+    height: 1rem;
+    background: red;
+    position: absolute;
+    right: -0.4rem;
+    border-radius: 50%;
+    box-shadow: 0 0 0.16rem 0 rgba(255, 0, 0, 0.93);
+    top: 0.7rem;
+}
+.qiang .wenzi{
+    font-size:0.5rem;
+    font-weight: 800;
+    text-align: center;
+    line-height: 1rem;
+    color: white;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 0.89rem;
+    background: white;
+    margin: 0.5rem auto 0;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 0 -0.15rem 1rem 0 rgba(181, 174, 174, 0.57);
+
+}
+.logo1,.logo3,.logo2,.logo4{
+    width: 0.7rem;
+    height: 0.89rem;
+}
+.logo1 img,.logo3 img,.logo2 img,.logo4 img{
+    display: block;
+    width: 0.56rem;
+    height: 0.56rem;
+    margin: 0 auto;
+}
+.footer p{
+    font-size: 0.18rem;
+    text-align: center;
+}
+

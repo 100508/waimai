@@ -1,0 +1,343 @@
+.container{
+    width: 7.02rem;
+    height: auto;
+    min-height: 1px;
+    margin: 0 auto;
+}
+#header{
+    width: 7.5rem;
+    height: 2.7rem;
+    background: #ff6700;
+    margin: 0 auto;
+}
+.batten{
+    width: 7.02rem;
+    height: 0.39rem;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+}
+.batten img{
+    width: 0.25rem;
+    height: 0.39rem;
+}
+.butten{
+    width:0.9rem ;
+    height: 0.39rem;
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    width: 0.39rem;
+    height: 0.39rem;
+    border-radius: 50%;
+    background: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.btn img{
+    width: 0.3rem;
+    height: 0.3rem;
+}
+.topBar{
+    width: 7.05rem;
+    height: 1.85rem;
+    margin: auto;
+}
+.topBar img{
+    display: block;
+    float: left;
+    width: 1.36rem;
+    height: 1.36rem;
+    margin-top: 0.25rem;
+    margin-left: 0.72rem;
+}
+.topCon{
+    float: left;
+    width: 4rem;
+    height: 1.8rem;
+    margin-left: 0.3rem;
+    margin-top:0.13rem ;
+}
+.topCon1{
+    font-size: 0.34rem;
+    font-weight: 600;
+    color: white;
+}
+.topCon2{
+    width: 3rem;
+    height: 0.3rem;
+    margin-top: 0.1rem;
+}
+.topCon2 img{
+    display: block;
+    float: left;
+    width: 0.3rem;
+    height: 0.3rem;
+    margin-top: 0;
+    margin-left: 0;
+}
+.topCon2 p{
+    font-size: 0.12rem;
+    color: white;
+}
+.topCon3{
+    width: 4rem;
+    height: 0.4rem;
+    margin-top: 0.1rem;
+}
+.topCon3 .weizhi{
+    width: 1rem;
+    height: 100%;
+    background: #ff8514;
+    border-radius: 0.1rem;
+    border: 2px solid white;
+    float: left;
+}
+.weizhi p{
+    font-size: 0.16rem;
+    color: white;
+    text-align: center;
+}
+.topCon3 .wei1,.wei2{
+    float: left;
+    font-size: 0.16rem;
+    color: white;
+    margin-left: 0.2rem;
+    margin-top:0.05rem;
+}
+.wei3{
+    width: 0.69rem;
+    height: 100%;
+    float: left;
+    border-radius: 0.1rem;
+    background: white;
+    margin-left: 0.05rem;
+    text-align: center;
+    line-height: 0.4rem;
+}
+.wei3 p{
+    font-size: 0.12rem;
+    color: #ff8514;
+}
+.topCon4{
+    width: 1.8rem;
+    height: 0.4rem;
+}
+.topCon4 img{
+    width: 0.2rem;
+    height: 0.2rem;
+    margin-top: 0.08rem;
+    margin-left: 0;
+}
+.topCon4 .wei4{
+    font-size: 0.12rem;
+    color: white;
+    margin-top: 0.08rem;
+}
+.con4{
+    width: 7.5rem;
+    height: 1.2rem;
+    margin: 0 auto;
+    position: relative;
+    background: black;
+}
+.con5 img{
+    width: 0.3rem;
+    height: 0.3rem;
+    position: absolute;
+    left: 0.24rem;
+    top: 0.5rem;
+}
+.con5 p{
+    font-size: 0.24rem;
+    font-weight: bold;
+    color: #ffffff;
+    position: absolute;
+    left: 0.55rem;
+    top: 0.5rem;
+}
+.con6 img{
+    width: 7.5rem;
+    height: 0.2rem;
+    position: absolute;
+    bottom: -0.1rem;
+}
+.title{
+    width: 2.29rem;
+    background: white;
+    border-radius: 0.18rem;
+    border: 0.05rem solid #b0abac;
+    margin: 0.22rem auto 0.22rem;
+}
+.title1{
+    width: 1.16rem;
+    background: #ff8514;
+    float: left;
+    border-radius: 0.14rem;
+    color: white;
+}
+.title1 p,.title2 p{
+    font-size: 0.24rem;
+    font-weight: bold;
+    text-align: center;
+    line-height: 0.45rem;
+}
+.homePage{
+    width: 7.5rem;
+    height: 7.32rem;
+    margin: 0.22rem auto 0;
+}
+.content1{
+    float: left;
+    width: 2.1rem;
+    height: 100%;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+.content1 .ti1{
+    width: 1.66rem;
+    height: 0.59rem;
+    background: black;
+    border: 0.05rem solid #ff6700;
+    border-radius: 0.3rem;
+}
+.ti1 p{
+    font-size: 0.32rem;
+    color: #ff6700;
+    text-align: center;
+    line-height: 0.4rem;
+}
+.content2{
+    float: left;
+    width: 5.4rem;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-content: space-around;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+.content2 .ti2{
+    width: 4.9rem;
+    height: 1.7rem;
+    background: white;
+    border-radius: 0.3rem;
+    box-shadow: 0 0.15rem 0.16rem 0 rgba(181, 174, 174, 0.57);
+    position: relative;
+}
+.ti2 .ti3{
+    width: 1.44rem;
+    height: 1.44rem;
+    border-radius: 50%;
+    box-shadow: 0 0.15rem 0.3rem 0 rgba(181, 174, 174, 0.57);
+    margin-top: 0.15rem;
+    margin-left: 0.2rem;
+}
+.ti2 .ti5{
+    font-size: 0.16rem;
+    font-weight: bold;
+    position: absolute;
+    left: 1.7rem;
+    top: 0.2rem;
+}
+.ti2 .ti4{
+    width: 1.25rem;
+    position: absolute;
+    left:1.7rem ;
+    top:0.65rem;
+}
+.ti2 .ti6{
+    font-size: 0.2rem;
+    font-weight: bold;
+    color: #ff8514;
+    position: absolute;
+    left: 1.7rem;
+    top: 0.95rem;
+}
+.ti2 .ti7{
+    width: 0.25rem;
+    height: 0.25rem;
+    position: absolute;
+    left: 1.7rem;
+    top: 1.4rem;
+}
+.ti2 .ti8{
+    font-size: 0.2rem;
+    position: absolute;
+    top: 1.35rem;
+    left: 2rem;
+}
+.ti2 .ti9{
+    width: 0.4rem;
+    height: 0.4rem;
+    background: #ff8514;
+    border-radius:50% ;
+    position: absolute;
+    top: 0.8rem;
+    right: 0;
+}
+.ti10{
+    float: left;
+    width: 0.33rem;
+    height: 0.25rem;
+    margin-top: 0.08rem;
+    margin-left: 0.1rem;
+    font-family: 'iconfont';
+    color: white;
+}
+.footer{
+    width: 100%;
+    height: 0.98rem;
+    background:white;
+    margin: 0 auto;
+    box-shadow: 0 -0.15rem 1rem 0 rgba(181, 174, 174, 0.57);
+    position: fixed;
+    bottom: 0;
+}
+.fo1{
+    width: 0.77rem;
+    height: 0.77rem;
+    background: #6a5f5f;
+    border-radius: 50%;
+    float: left;
+    margin-left: 0.24rem;
+    margin-top: 0.11rem;
+}
+.fo1 .fo2{
+    float: left;
+    font-size: 0.6rem;
+    font-family: 'iconfont';
+    color: #333333;
+    margin-top: 0.1rem;
+    margin-left: 0.1rem;
+}
+.footer .fo3{
+    float: left;
+    margin-top: 0.2rem;
+    margin-left: 0.2rem;
+}
+.footer .fo4{
+    float: left;
+    margin-top: 0.5rem;
+    margin-left: -1.1rem;
+}
+.fo5{
+    width: 1.2rem;
+    height: 0.4rem;
+    background: #6a5f5f;
+    border-radius: 0.15rem;
+    position: absolute;
+    top: 0.4rem;
+    right: 0.1rem;
+}
+.fo5 p{
+    font-size: 0.24rem;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}

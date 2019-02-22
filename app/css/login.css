@@ -1,0 +1,161 @@
+.back{
+    width: 7.5rem;
+    height: 100%;
+    background: white;
+    margin: 0 auto;
+    position: relative;
+}
+.back .b{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.ba1{
+    width: 0.76rem;
+    height: 0.41rem;
+    position: absolute;
+    left: 1.2rem;
+    top: 1rem;
+}
+.ba2{
+    font-size: 0.6rem;
+    font-family: 'iconfont';
+    color: black;
+}
+.ba3{
+    width: 0.84rem;
+    height: 0.45rem;
+    border-radius: 50rem;
+    border: 0.02rem solid #b8b8b8;
+    position: absolute;
+    right: 0.8rem;
+    top: 1rem;
+}
+.ba3 p{
+    font-size: 0.24rem;
+    color: #040404;
+    text-align: center;
+    line-height: 0.4rem;
+}
+.ba4 {
+    font-size: 0.64rem;
+    font-weight: bold;
+    color: #040404;
+    position: absolute;
+    left: 1.2rem;
+    top: 2.27rem;
+}
+.ba5{
+    font-size: 0.36rem;
+    font-weight: bold;
+    color: rgba(2,2,2,0.66);
+    position: absolute;
+    left: 1.2rem;
+    top: 3.17rem;
+}
+.ba6{
+    font-size: 0.36rem;
+    font-weight: bold;
+    color: rgba(2,2,2,0.66);
+    position: absolute;
+    left: 1.2rem;
+    top: 3.56rem;
+}
+.ba7{
+    width: 6.30rem;
+    height: 4.68rem;
+    background: white;
+    position: absolute;
+    left: 1.2rem;
+    top: 4.56rem;
+    shadowColor:  0 0.15rem 0.16rem 0 rgba(141, 136, 136, 0.5);
+}
+.ba7 .ba8{
+    font-size: 0.24rem;
+    font-weight: bold;
+    position: absolute;
+    left: 0.6rem;
+    top: 0.52rem;
+}
+.ba7 .ba9 {
+    width: 4.5rem;
+    height: 0.61rem;
+    outline: none;
+    border: none;
+    border-bottom:0.03rem solid rgb(229,229,229);
+    position: absolute;
+    left: 0.6rem;
+    top: 1.3rem;
+}
+.ba7 .ba10 {
+    font-size: 0.24rem;
+    font-weight: bold;
+    position: absolute;
+    left: 0.6rem;
+    top: 2.28rem;
+}
+.ba7 .ba11 {
+    width: 4.5rem;
+    height: 0.61rem;
+    outline: none;
+    border: none;
+    border-bottom:0.03rem solid rgb(229,229,229);
+    position: absolute;
+    left: 0.6rem;
+    top: 3.14rem;
+}
+.ba12{
+    width: 5rem;
+    height: 0.43rem;
+    position: absolute;
+    left: 0.6rem;
+    top: 3.84rem;
+}
+.ba12 .ba13{
+    font-size: 0.42rem;
+    font-family: 'iconfont';
+    color: red;
+}
+.ba12 .ba14{
+    font-size: 0.24rem;
+    color: #aaaaaa;
+    margin-top: 0;
+}
+.ba15{
+    width: 6.30rem;
+    height: 0.97rem;
+    background: white;
+    position: absolute;
+    left: 1.2rem;
+    top: 9.78rem;
+    shadowColor:  0 0.15rem 0.16rem 0 rgba(141, 136, 136, 0.5);
+}
+.ba15 p{
+    font-size: 0.42rem;
+    font-weight: bold;
+    color: #aaaaaa;
+    text-align: center;
+    line-height: 0.97rem;
+}
+.ba16{
+    font-size: 0.24rem;
+    color: #333333;
+    position: absolute;
+    left: 3rem;
+    top: 11rem;
+}
+.ba17{
+    width: 2.53rem;
+    height: 0.72rem;
+    position: absolute;
+    left: 3.22rem;
+    top: 11.42rem;
+    display: flex;
+    justify-content: space-around;
+}
+.ba17 img{
+    width: 0.72rem;
+    height: 0.72rem;
+}
