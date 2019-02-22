@@ -201,11 +201,13 @@
     top: 0.56rem;
 }
 .p27 .p31{
-    width: 3.5rem;
+    width: 6.4rem;
     height: 0.02rem;
     position: absolute;
-    left: 1.76rem;
     top: 1rem;
+    left: 0.24rem;
+    margin: auto;
+    opacity: 0.2;
 }
 .p37 .p32{
     width: 1.67rem;
@@ -261,8 +263,9 @@
 .p35 i{
     font-family: iconfont;
     font-size: 0.24rem;
-    color: #aaaaaa;
-    margin-left: 0.05rem;
+    color: white;
+    margin-left: 0.07rem;
+    margin-top: 0.07rem;
 }
 .p36{
     width: 2.1rem;
