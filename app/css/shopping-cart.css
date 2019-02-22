@@ -79,7 +79,7 @@
     margin-left: 0;
 }
 .topCon2 p{
-    font-size: 0.12rem;
+    font-size: 0.24rem;
     color: white;
 }
 .topCon3{
@@ -96,13 +96,13 @@
     float: left;
 }
 .weizhi p{
-    font-size: 0.16rem;
+    font-size: 0.24rem;
     color: white;
     text-align: center;
 }
 .topCon3 .wei1,.wei2{
     float: left;
-    font-size: 0.16rem;
+    font-size: 0.24rem;
     color: white;
     margin-left: 0.2rem;
     margin-top:0.05rem;
@@ -118,7 +118,7 @@
     line-height: 0.4rem;
 }
 .wei3 p{
-    font-size: 0.12rem;
+    font-size: 0.24rem;
     color: #ff8514;
 }
 .topCon4{
@@ -132,7 +132,7 @@
     margin-left: 0;
 }
 .topCon4 .wei4{
-    font-size: 0.12rem;
+    font-size: 0.24rem;
     color: white;
     margin-top: 0.08rem;
 }
@@ -239,7 +239,7 @@
     margin-left: 0.2rem;
 }
 .ti2 .ti5{
-    font-size: 0.16rem;
+    font-size: 0.24rem;
     font-weight: bold;
     position: absolute;
     left: 1.7rem;
@@ -264,7 +264,7 @@
     height: 0.25rem;
     position: absolute;
     left: 1.7rem;
-    top: 1.4rem;
+    top: 1.36rem;
 }
 .ti2 .ti8{
     font-size: 0.2rem;
@@ -324,7 +324,7 @@
 .footer .fo4{
     float: left;
     margin-top: 0.5rem;
-    margin-left: -1.1rem;
+    margin-left: -1.2rem;
 }
 .fo5{
     width: 1.2rem;
